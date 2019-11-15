@@ -16,6 +16,6 @@
         "id": 2,
         "title": "task three",
         "description" : "description three",
-        "done": false
+        "done": true
     }
 ]
